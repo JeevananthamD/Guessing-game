@@ -12,7 +12,8 @@ html {
 body {
     width: 90vh;
     margin: 0 auto;
-    background: radial-gradient(var(--gradient-1),var(--gradient-2));
+/*     background: radial-gradient(var(--gradient-1),var(--gradient-2)); */
+    background: url("Background.jpg");
 }
 main {
     text-align: center;
